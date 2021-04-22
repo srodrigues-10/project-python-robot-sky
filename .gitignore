@@ -1,0 +1,3 @@
+# git ignore
+# Any results file
+results/*
