@@ -25,7 +25,6 @@ Abrir Sessão Android
     Open Application        http://localhost:4723/wd/hub
     ...                     automationName=UiAutomator2
     ...                     platformName=Android
-    ...                     deviceName=emulator-5554
     ...                     appPackage=br.com.sky.selfcare
     ...                     appActivity=br.com.sky.selfcare.features.main.launch.LaunchActivity
     ...                     adbExecTimeout=60000
